@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Cagri Keles",
+  "classifications": [ "MAUI", "C#", "NoXAML" ],
+  "identity": "CagriKeles.Maui.CSharpTemplate",
+  "name": "C# Only .NET MAUI App",
+  "shortName": "maui-cs",
+  "sourceName": "MauiCSharpTemplate",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "preferNameDirectory": true
+}
+
